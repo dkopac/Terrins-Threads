@@ -1,0 +1,21 @@
+header {
+    color: rgb(0, 255, 247);
+    /*padding: 1em;*/
+    text-align: center;
+    font-family: "Limelight", sans-serif;
+    font-size: 2em;
+}
+
+body {
+    background-image: url(../css/Background\ Idea.jpg);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color:white
+}
+
+a{
+    color: rgb(2, 255, 225);
+    text-decoration: none;
+}
