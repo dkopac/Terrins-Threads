@@ -31,4 +31,28 @@ ul {
 h2 {
     font-family: "Limelight", sans-serif;
     color: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+}
+
+h3 {
+    font-family: "Limelight", sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h4 {
+    font-family: "Limelight", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: center;
 }
