@@ -1,0 +1,62 @@
+/* contact.css */
+header{
+    color: rgb(0, 255, 247);
+    /*padding: 1em;*/
+    text-align: center;
+    font-family: "Limelight", sans-serif;
+    font-size: 4em;
+}
+a{
+    color: rgb(0, 255, 247);
+}
+body {
+    background-image: url(../css/Background\ Idea.jpg);
+    background-size: cover;
+    font-family: limelight, sans-serif;
+    margin: 0;
+    padding: 0;
+    color:white
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 255, 247);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    color: yellowgreen;
+}
+
+input, textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 15px;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #4cae4c;
+}
