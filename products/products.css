@@ -3,7 +3,7 @@ header {
     /*padding: 1em;*/
     text-align: center;
     font-family: "Limelight", sans-serif;
-    font-size: 2em;
+    font-size: 4em;
 }
 
 body {
@@ -34,3 +34,151 @@ ul {
     padding: 0;
 }
 
+h2 {
+    font-family: "Limelight", sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+    margin: 26.56px 0;
+}   
+
+h3 {
+    font-family: "Limelight", sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+    margin: 26.56px 0;
+}
+
+h4 {
+    font-family: "Limelight", sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+    margin: 26.56px 0;
+}
+
+h5 {
+    font-family: "Limelight", sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+    margin: 26.56px 0;
+}
+
+h6 {
+    font-family: "Limelight", sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+    margin: 26.56px 0;
+}
+
+h7 {
+    font-family: "Limelight", sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+    margin: 26.56px 0;
+}
+
+.product1 {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.product1 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product2 {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.product2 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product3 {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.product3 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product4 {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.product4 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product5 {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.product5 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product6 {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.product6 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+a {
+    color: rgb(2, 255, 225);
+    text-decoration: none;
+    position:sticky;
+}
+
+a:hover {
+    color: rgb(2, 255, 225);
+    text-decoration: underline;
+}
