@@ -6,6 +6,13 @@ header {
     font-size: 2em;
 }
 
+.logo {
+    max-width: 200px; /* Adjust the size of the logo */
+    height: auto;
+    display: inline-block;
+    vertical-align: middle; /* Align the logo with the text */
+}
+
 body {
     background-image: url(./Background\ Idea.jpg);
     background-size: cover;

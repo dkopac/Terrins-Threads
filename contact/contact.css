@@ -6,9 +6,20 @@ header{
     font-family: "Limelight", sans-serif;
     font-size: 4em;
 }
+
+
 a{
     color: rgb(0, 255, 247);
 }
+
+.logo {
+    max-width: 100px; /* Adjust the size of the logo */
+    height: auto;
+    margin-right: 10px; /* Adjust the space between the logo and the text */
+    vertical-align: middle; /* Align the logo with the text */
+}
+
+
 body {
     background-image: url(../css/Background\ Idea.jpg);
     background-size: cover;
