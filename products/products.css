@@ -6,12 +6,11 @@ header {
     font-size: 4em;
 }
 
-.logo {
-    max-width: 150px; /* Adjust the size of the logo */
+img.logo {
+    max-width: 200px; /* Increase the size of the logo */
     height: auto;
-    display: inline-block;
-    vertical-align: middle; /* Align the logo with the text */
-    margin-right: 10px; /* Adjust the space between the logo and the text */
+    display: block;
+    margin: 10px auto; /* Center the logo and add space around it */
 }
 
 body {

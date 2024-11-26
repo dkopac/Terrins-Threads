@@ -1,22 +1,22 @@
 /* contact.css */
 header{
     color: rgb(0, 255, 247);
-    /*padding: 1em;*/
+    padding: 1em;
     text-align: center;
     font-family: "Limelight", sans-serif;
     font-size: 4em;
 }
 
+img.logo {
+    max-width: 100px; /* Adjust the size of the logo */
+    height: auto;
+    display: block;
+    margin: 10px auto; /* Center the logo and add space around it */
+}
+
 
 a{
     color: rgb(0, 255, 247);
-}
-
-.logo {
-    max-width: 100px; /* Adjust the size of the logo */
-    height: auto;
-    margin-right: 10px; /* Adjust the space between the logo and the text */
-    vertical-align: middle; /* Align the logo with the text */
 }
 
 
@@ -70,4 +70,13 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     background-color: #4cae4c;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }

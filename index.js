@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const message = document.getElementById("message").value;
 
         // Construct the mailto URL
-        const mailtoLink = `mailto:dkopac96@gmail.com?subject=Contact from ${name}&body=${encodeURIComponent(message)}%0A%0AFrom: ${name}%0AEmail: ${email}`;
+        const mailtoLink = `mailto:terrinsthreads@gmail.com?subject=Contact from ${name}&body=${encodeURIComponent(message)}%0A%0AFrom: ${name}%0AEmail: ${email}`;
 
         // Open the mailto link
         window.location.href = mailtoLink;
