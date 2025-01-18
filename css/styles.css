@@ -72,3 +72,8 @@ footer {
     margin: 0;
     padding: 0;
 }
+
+a {
+    color: rgb(221, 153, 234);
+    text-decoration: none;
+}

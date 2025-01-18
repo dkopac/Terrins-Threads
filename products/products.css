@@ -95,7 +95,23 @@ h7 {
     margin: 26.56px 0;
 }
 
-.product1 {
+.T-Shirts {
+    display: inline-block;
+    width: 20;
+    margin: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.T-Shirts img {
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.Crewneck {
     display: inline-block;
     width: 30%;
     margin: 1%;
@@ -105,12 +121,12 @@ h7 {
     box-shadow: 5px 5px 5px black;
 }
 
-.product1 img {
+.Crewneck img {
     width: 100%;
     border-radius: 10px;
 }
 
-.product2 {
+.Longsleeve {
     display: inline-block;
     width: 30%;
     margin: 1%;
@@ -120,12 +136,13 @@ h7 {
     box-shadow: 5px 5px 5px black;
 }
 
-.product2 img {
-    width: 100%;
+.Longsleeve img {
+    width: 80%;
+    height: auto;
     border-radius: 10px;
 }
 
-.product3 {
+.Sweatshirts {
     display: inline-block;
     width: 30%;
     margin: 1%;
@@ -135,12 +152,13 @@ h7 {
     box-shadow: 5px 5px 5px black;
 }
 
-.product3 img {
-    width: 100%;
+.Sweatshirts img {
+    width: 65%;
+    height: auto;
     border-radius: 10px;
 }
 
-.product4 {
+.Jewelry {
     display: inline-block;
     width: 30%;
     margin: 1%;
@@ -150,23 +168,9 @@ h7 {
     box-shadow: 5px 5px 5px black;
 }
 
-.product4 img {
-    width: 100%;
-    border-radius: 10px;
-}
-
-.product5 {
-    display: inline-block;
-    width: 30%;
-    margin: 1%;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 1%;
-    border-radius: 10px;
-    box-shadow: 5px 5px 5px black;
-}
-
-.product5 img {
-    width: 100%;
+.Jewelry img {
+    width: 40%;
+    height: auto;
     border-radius: 10px;
 }
 
